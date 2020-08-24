@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, i am Arnoldo Ricardo 👋
+
+Soy Fronted Developer, Amo las tecnologías web, me gustan los proyectos que tienen una visión clara, un objetivo que vale la pena perseguir y la posibilidad de generar un impacto.
 
 <!--
 **ArnoldoRicardo/ArnoldoRicardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
