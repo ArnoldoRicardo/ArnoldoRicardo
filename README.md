@@ -11,6 +11,7 @@ __Full-stack developer__
 <img align="center" src='https://github-readme-stats.vercel.app/api?username=ArnoldoRicardo&hide=issues,contribs'>  
 </div>
 
+
 __📫 How to reach me:__
 
 [![Linkedin Badge](https://img.shields.io/badge/Arnoldo%20Ricardo-blue?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arnoldoricardo)](https://www.linkedin.com/in/arnoldoricardo)
