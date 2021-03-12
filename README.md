@@ -2,7 +2,7 @@
 
 __Full-stack developer__
 
-🔭 I’m currently working with FLASK, Django, Laravel, React, Redux, React Native
+🔭 I’m currently working with Flask, Django, React, Redux, React Native, 
 
 🌱 I’m currently learning AI
 
