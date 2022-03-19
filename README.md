@@ -2,9 +2,7 @@
 
 __Full-stack developer__
 
-🔭 I’m currently working with Fastapi, Django, React, Redux, 
-
-🌱 I’m currently learning React Native
+🔭 I’m currently working with Fastapi, Django, React, Redux
 
 <div>
 <img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoldoRicardo&hide=html&layout=compact'>
