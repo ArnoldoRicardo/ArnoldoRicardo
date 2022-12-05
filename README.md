@@ -2,7 +2,7 @@
 
 __Python/Typescript developer__
 
-- 🔭 I have been working products related to data and ideas.
+- 🔭 I have been working products related to data and insights.
 - 👯 I'm looking to collaborate on free software project
 - ⚡ Fun fact: i'm taking theather classes
 
