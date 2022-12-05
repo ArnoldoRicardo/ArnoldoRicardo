@@ -1,8 +1,10 @@
 ### Hi, i am Arnoldo Ricardo 👋
 
-__Full-stack developer__
+__Python/Typescript developer__
 
-🔭 I’m currently working with Fastapi, Django, React, Redux
+- 🔭 I have been working products related to data and ideas.
+- 👯 I'm looking to collaborate on free software project
+- ⚡ Fun fact: i'm taking theather classes
 
 <div>
 <img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoldoRicardo&hide=html&layout=compact'>
