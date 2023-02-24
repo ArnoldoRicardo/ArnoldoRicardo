@@ -1,10 +1,14 @@
 ### Hi, i am Arnoldo Ricardo 👋
 
-__Python/Typescript developer__
+a Python and Typescript developer with experience working on products related to data and insights.
 
-- 🔭 I have been working products related to data and insights.
-- 👯 I'm looking to collaborate on free software project
-- ⚡ Fun fact: i'm taking theather classes
+🔭 Currently, I'm working on developing my skills and contributing to open-source software projects.
+
+💃 Fun fact: When I'm not coding, I love taking theater classes and exploring new ways to express myself creatively.
+
+👨‍💻 My areas of expertise include ETL, data processing, GraphQL, Node.js, AWS, and infrastructure automation. I have experience in designing and implementing data pipelines using Python, GraphQL APIs using Strawberry and Graphene, and real-time data processing pipelines using FastAPI, Celery, RabbitMQ, and Flower. I'm also proficient in using GitLab CI, Docker, SaltStack, Terraform, and AWS services like Lambda and API Gateway for continuous integration and deployment.
+
+🌱 I'm always looking for opportunities to learn and collaborate on free software projects. If you're interested in working with me, feel free to reach out through my LinkedIn or email.
 
 <div>
 <img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoldoRicardo&hide=html&layout=compact'>
