@@ -3,6 +3,7 @@
 A Python & TypeScript developer specializing in data products and insights.
 
 🔭 Currently enhancing my skills and aspiring to lead technical architecture in open-source and Python-first teams.
+
 💃 Fun fact: I take theater classes to explore creative expression.
 
 **Expertise:** ETL, data processing, GraphQL (Strawberry & Graphene), Node.js, AWS, infrastructure automation.
