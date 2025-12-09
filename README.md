@@ -1,19 +1,15 @@
 ### Hi, I’m Arnoldo Ricardo 👋
 
-A Python & TypeScript developer specializing in data products and insights.
+Product-Minded Staff Engineer & Cloud Specialist. I build scalable distributed systems with Python, AWS & Kubernetes. Focused on high-performance backends and infrastructure as code.
 
-🔭 Currently enhancing my skills and aspiring to lead technical architecture in open-source and Python-first teams.
-
-💃 Fun fact: I take theater classes to explore creative expression.
-
-**Expertise:** ETL, data processing, GraphQL (Strawberry & Graphene), Node.js, AWS, infrastructure automation.
+**Expertise:** Scalable Backend Systems, Cloud Architecture (AWS/Azure), Microservices, Infrastructure as Code (Terraform), and Data Pipelines.
 
 - Designed and implemented data pipelines in Python  
 - Built GraphQL APIs with Strawberry & Graphene  
 - Developed real-time processing pipelines using FastAPI, Celery, RabbitMQ & Flower  
 - Automated CI/CD with GitLab CI, Docker, SaltStack, Terraform, AWS Lambda & API Gateway
 
-🌱 Always learning and eager to collaborate on free software.  
+🌱 Always learning and eager to collaborate on open source projects.  
 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/arnoldoricardo)
 
 <div>
