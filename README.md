@@ -11,8 +11,3 @@ Product-Minded Staff Engineer & Cloud Specialist. I build scalable distributed s
 
 🌱 Always learning and eager to collaborate on open source projects.  
 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/arnoldoricardo)
-
-<div>
-<img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoldoRicardo&hide=html&layout=compact'>
-<img align="center" src='https://github-readme-stats.vercel.app/api?username=ArnoldoRicardo&hide=issues,contribs'>  
-</div>
